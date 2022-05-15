@@ -1,3 +1,3 @@
-# GuncelKonularIlkHafta
+# Guncel-Konular
 
-Güncel Konular Dersi 1. Hafta
+Bu Repository "İstanbul Gelişim Üniversitesi" 'Bilgisayar Mühendisliğinde Güncel Konular' dersi ders içi etkinlikleri içerir.
